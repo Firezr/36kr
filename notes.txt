@@ -1,0 +1,46 @@
+同步atom插件
+
+atom同步配置插件sync-settings：
+https://myzerone.com/posts/2017/12/14/atom同步/
+sync-settings:backup : 备份当前的配置；
+sync-settings:restore : 回复配置，是直接覆盖的；
+sync-settings:view-backup : 当你执行备份后到线上查询你的备份的，也就是到你的 gist code 里面；
+sync-settings:check-backup : 查询最后一次备份是否正常；
+
+atom插件
+  bootstrap
+  shell-commands
+  typescript
+  wx
+  d3-snippets
+  language-svg
+  language-vue
+  language-weex
+  linter
+  linter-eslint
+  markdown-preview-plus
+  minimap
+  script
+  svg-preview
+  terminal-plus
+  weex-format
+  es-lint
+  atom-beaufify
+  emmet
+  git-plus
+  sync-settings
+
+  
+git相关
+
+
+git checkout -b feature-question-vo
+git add .
+git push origin feature-question-vo
+
+git fetch -p
+git branch --remote
+git merge origin/zeirui
+git branch -D
+
+

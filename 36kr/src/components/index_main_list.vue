@@ -60,7 +60,7 @@
 </template>
 
 <script>
-import common from '@/libs/common'
+import Common from '@/libs/common'
 
 export default {
   name:'indexMainList',
@@ -77,7 +77,7 @@ export default {
 
   },
   filters:{
-    getTime:common.getTime,
+    getTime:Common.getTime,
     getImgUrl(item){
       return `http://localhost:8090/img?src=${item.src}`
     }
