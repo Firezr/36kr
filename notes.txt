@@ -31,7 +31,14 @@ atom插件
   sync-settings
 
   
+  
 git相关
+
+git init 
+git add .
+git commit -m "first commit"
+git remote add origin http://...
+git push -u origin master
 
 
 git checkout -b feature-question-vo
@@ -44,3 +51,36 @@ git merge origin/zeirui
 git branch -D
 
 
+git fetch	同步远端分支
+git merge ...    合并某分支
+git branch   分支
+git branch -a
+git checkout remotes/origin/feature-20190104-liveSdk	切分支
+git status
+git pull origin feature-20190104-liveSdk
+git add .
+git commit -m "test"
+
+
+
+gsl-js-jdk相关
+
+
+架构类似vue-cli，但又不是，webpack-cli吗？？？
+集团直播 为啥用原生写??  
+		底层原生，可扩展性强  方便使用方，可任意扩展语言    
+        没有兼容性问题
+		开发没有 限制 （框架 有自己的规则）
+
+技术：promise+fetch
+      class  constructor  set  get
+	  event触发器 callbacker回调 loader logger
+	  lps => live  playback  sms       controller（直播工具）
+	
+	
+	
+题库相关
+
+react  antd  pdf.js  hash  sessionStorage loading 
+
+	
