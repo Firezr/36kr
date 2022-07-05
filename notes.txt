@@ -1,13 +1,13 @@
-Í¬²½atom²å¼þ
+Í¬ï¿½ï¿½atomï¿½ï¿½ï¿½
 
-atomÍ¬²½ÅäÖÃ²å¼þsync-settings£º
-https://myzerone.com/posts/2017/12/14/atomÍ¬²½/
-sync-settings:backup : ±¸·Ýµ±Ç°µÄÅäÖÃ£»
-sync-settings:restore : »Ø¸´ÅäÖÃ£¬ÊÇÖ±½Ó¸²¸ÇµÄ£»
-sync-settings:view-backup : µ±ÄãÖ´ÐÐ±¸·Ýºóµ½ÏßÉÏ²éÑ¯ÄãµÄ±¸·ÝµÄ£¬Ò²¾ÍÊÇµ½ÄãµÄ gist code ÀïÃæ£»
-sync-settings:check-backup : ²éÑ¯×îºóÒ»´Î±¸·ÝÊÇ·ñÕý³££»
+atomÍ¬ï¿½ï¿½ï¿½ï¿½ï¿½Ã²ï¿½ï¿½sync-settingsï¿½ï¿½
+https://myzerone.com/posts/2017/12/14/atomÍ¬ï¿½ï¿½/
+sync-settings:backup : ï¿½ï¿½ï¿½Ýµï¿½Ç°ï¿½ï¿½ï¿½ï¿½ï¿½Ã£ï¿½
+sync-settings:restore : ï¿½Ø¸ï¿½ï¿½ï¿½ï¿½Ã£ï¿½ï¿½ï¿½Ö±ï¿½Ó¸ï¿½ï¿½ÇµÄ£ï¿½
+sync-settings:view-backup : ï¿½ï¿½ï¿½ï¿½Ö´ï¿½Ð±ï¿½ï¿½Ýºï¿½ï¿½ï¿½ï¿½Ï²ï¿½Ñ¯ï¿½ï¿½Ä±ï¿½ï¿½ÝµÄ£ï¿½Ò²ï¿½ï¿½ï¿½Çµï¿½ï¿½ï¿½ï¿½ gist code ï¿½ï¿½ï¿½æ£»
+sync-settings:check-backup : ï¿½ï¿½Ñ¯ï¿½ï¿½ï¿½Ò»ï¿½Î±ï¿½ï¿½ï¿½ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-atom²å¼þ
+atomï¿½ï¿½ï¿½
   bootstrap
   shell-commands
   typescript
@@ -32,7 +32,7 @@ atom²å¼þ
 
   
   
-gitÏà¹Ø
+gitï¿½ï¿½ï¿½
 
 git init 
 git add .
@@ -51,11 +51,11 @@ git merge origin/zeirui
 git branch -D
 
 
-git fetch	Í¬²½Ô¶¶Ë·ÖÖ§
-git merge ...    ºÏ²¢Ä³·ÖÖ§
-git branch   ·ÖÖ§
+git fetch	Í¬ï¿½ï¿½Ô¶ï¿½Ë·ï¿½Ö§
+git merge ...    ï¿½Ï²ï¿½Ä³ï¿½ï¿½Ö§
+git branch   ï¿½ï¿½Ö§
 git branch -a
-git checkout remotes/origin/feature-20190104-liveSdk	ÇÐ·ÖÖ§
+git checkout remotes/origin/feature-20190104-liveSdk	ï¿½Ð·ï¿½Ö§
 git status
 git pull origin feature-20190104-liveSdk
 git add .
@@ -63,24 +63,23 @@ git commit -m "test"
 
 
 
-gsl-js-jdkÏà¹Ø
+gsl-js-jdkï¿½ï¿½ï¿½
 
 
-¼Ü¹¹ÀàËÆvue-cli£¬µ«ÓÖ²»ÊÇ£¬webpack-cliÂð£¿£¿£¿
-¼¯ÍÅÖ±²¥ ÎªÉ¶ÓÃÔ­ÉúÐ´??  
-		µ×²ãÔ­Éú£¬¿ÉÀ©Õ¹ÐÔÇ¿  ·½±ãÊ¹ÓÃ·½£¬¿ÉÈÎÒâÀ©Õ¹ÓïÑÔ    
-        Ã»ÓÐ¼æÈÝÐÔÎÊÌâ
-		¿ª·¢Ã»ÓÐ ÏÞÖÆ £¨¿ò¼Ü ÓÐ×Ô¼ºµÄ¹æÔò£©
+ï¿½Ü¹ï¿½ï¿½ï¿½ï¿½ï¿½vue-cliï¿½ï¿½ï¿½ï¿½ï¿½Ö²ï¿½ï¿½Ç£ï¿½webpack-cliï¿½ð£¿£ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½ ÎªÉ¶ï¿½ï¿½Ô­ï¿½ï¿½Ð´??  
+		ï¿½×²ï¿½Ô­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ¹ï¿½ï¿½Ç¿  ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ¹ï¿½ï¿½ï¿½ï¿½    
+        Ã»ï¿½Ð¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		ï¿½ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½Ä¹ï¿½ï¿½ï¿½
 
-¼¼Êõ£ºpromise+fetch
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½promise+fetch
       class  constructor  set  get
-	  event´¥·¢Æ÷ callbacker»Øµ÷ loader logger
-	  lps => live  playback  sms       controller£¨Ö±²¥¹¤¾ß£©
+	  eventï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ callbackerï¿½Øµï¿½ loader logger
+	  lps => live  playback  sms       controllerï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½ï¿½ß£ï¿½
 	
 	
 	
-Ìâ¿âÏà¹Ø
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 react  antd  pdf.js  hash  sessionStorage loading 
-
-	
+ 
